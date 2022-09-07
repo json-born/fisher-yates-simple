@@ -1,10 +1,9 @@
 {
-  "name": "poker",
+  "name": "fisher-yates-simple",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Domenico Salvia",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "test": "jest"
   },
